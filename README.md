@@ -1,5 +1,7 @@
 # Predict home prices (demo)
 
+[![Tests](https://github.com/kotinos/predict-home-prices/actions/workflows/tests.yml/badge.svg)](https://github.com/kotinos/predict-home-prices/actions/workflows/tests.yml)
+
 Interactive **Gradio** app that estimates a listing price from **square footage** using **scikit-learn linear regression**. Training data is **100 synthetic** points generated at startup—no CSV, no real market data.
 
 ## Stack
